@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390619689641",
+    "project_id": "ai-call-translator-5332d",
+    "storage_bucket": "ai-call-translator-5332d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390619689641:android:369e62f8373b3186dcafb8",
+        "android_client_info": {
+          "package_name": "com.example.call_translator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChiYxq-HdllzpcQhaVNWxlqk2KwNXp8wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
